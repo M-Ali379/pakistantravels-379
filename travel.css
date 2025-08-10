@@ -30,6 +30,7 @@ section{
     padding:1rem;
     margin:2rem 0;
     background:rgba(255, 51, 153,.05);
+    background: linear-gradient(to right,  rgb(78, 190, 231), #ffe8cc);
 }
 
 .heading span{
