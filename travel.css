@@ -2,6 +2,10 @@
     --pink:#e84393;
 }
 
+body {
+    background :linear-gradient(to right,  rgb(183, 220, 233), #ffe8cc);  :;
+}
+
 *{
     margin:0; padding:0;
     box-sizing: border-box;
